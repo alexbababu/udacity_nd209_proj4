@@ -1,4 +1,4 @@
-<sdf version='1.7'>
+<sdf version='1.6'>
   <world name='default'>
     <plugin name='hello' filename='../build/libhello.so'/>
     <plugin name='map_creator' filename='libgazebo_2Dmap_plugin.so'>

@@ -65,10 +65,10 @@
           <distortionK3>0.0</distortionK3>
           <distortionT1>0.0</distortionT1>
           <distortionT2>0.0</distortionT2>
-        <CxPrime>0.0</CxPrime>
+        <!--<CxPrime>0.0</CxPrime>
         <Cx>0.0</Cx>
         <Cy>0.0</Cy>
-        <focalLength>0.0</focalLength>
+        <focalLength>0.0</focalLength>-->
       </plugin>
     </sensor>
   </gazebo>
