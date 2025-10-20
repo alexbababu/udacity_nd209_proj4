@@ -68,3 +68,4 @@ catkin_ws/logs/teleop_twist_keyboard/build.mkdir.001.log
 catkin_ws/logs/teleop_twist_keyboard/build.mkdir.log
 catkin_ws/logs/teleop_twist_keyboard/build.symlink.000.log
 catkin_ws/logs/teleop_twist_keyboard/build.symlink.log
+catkin_ws/src/my_robot/slam_map/submission_1.db
